@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "email": "guest@gmail.com",
+      "fullName": "Kevin",
+      "id": 1
+    }
+  ],
+  "favorites": [],
+  "resources": [
+    {
+      "id": 1,
+      "image": "cyberpunk-bitcoin-resource-btc.png",
+      "description": "Bitcoin is a decentralized cryptocurrency designed to act as money and a form of payment outside the control of any one person, group, or entity. It was introduced to the public in 2009 by an anonymous developer or group of developers using the name Satoshi Nakamoto.",
+      "urlLink": "https://bitcoin.org/en/resources"
+    },
+    {
+      "id": 2,
+      "image": "cyberpunk-dogecoin.png",
+      "description": "Dogecoin (DOGE) is a peer-to-peer cryptocurrency that was created in 2013 as a lighthearted alternative to traditional cryptocurrencies like Bitcoin. It was initially created as a joke and is based on a popular Internet meme featuring a Shiba Inu dog. However, despite its origins, Dogecoin has gained a significant following and has become a serious proposition in the cryptocurrency space.",
+      "urlLink": "https://dogecoin.com/"
+    },
+    {
+      "id": 3,
+      "image": "many-cryptocurrencies.png",
+      "description": "This article is a comprehensive overview of various trading strategies in the crypto market. It explains different approaches like day trading, HODLing, futures trading, arbitrage trading, range trading, and trend trading. The article emphasizes the significance of conducting thorough research and understanding the risks involved before engaging in trading activities.",
+      "urlLink": "https://cointelegraph.com/learn/a-beginners-guide-to-cryptocurrency-trading-strategies"
+    }
+  ],
+  "notes": [],
+  "educationFavorites": []
+}
