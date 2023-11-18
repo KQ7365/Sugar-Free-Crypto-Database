@@ -6,6 +6,133 @@
       "id": 1
     }
   ],
+  "list": [
+    {
+      "id": 1,
+      "name": "Bitcoin",
+      "price": "$36,500.00"
+    },
+    {
+      "id": 2,
+      "name": "Ethereum",
+      "price": "$2015.00"
+    },
+    {
+      "id": 3,
+      "name": "Binance Coin",
+      "price": "$298.25"
+    },
+    {
+      "id": 4,
+      "name": "Cardano",
+      "price": "$.29"
+    },
+    {
+      "id": 5,
+      "name": "Solana",
+      "price": "$10.15"
+    },
+    {
+      "id": 6,
+      "name": "XRP",
+      "price": "$.45"
+    },
+    {
+      "id": 7,
+      "name": "Polkadot",
+      "price": "$.89"
+    },
+    {
+      "id": 8,
+      "name": "Dogecoin",
+      "price": "$.24"
+    },
+    {
+      "id": 9,
+      "name": "USD Coin",
+      "price": "$1.00"
+    },
+    {
+      "id": 10,
+      "name": "Avalanche",
+      "price": "$.06"
+    },
+    {
+      "id": 11,
+      "name": "Terra",
+      "price": "$.19"
+    },
+    {
+      "id": 12,
+      "name": "Binance USD",
+      "price": "$1.00"
+    },
+    {
+      "id": 13,
+      "name": "Chainlink",
+      "price": "$25.00"
+    },
+    {
+      "id": 14,
+      "name": "Litecoin",
+      "price": "$14.00"
+    },
+    {
+      "id": 15,
+      "name": "Bitcoin Cash",
+      "price": "$23,000.00"
+    },
+    {
+      "id": 16,
+      "name": "Wrapped Bitcoin",
+      "price": "$38,500.00"
+    },
+    {
+      "id": 17,
+      "name": "Polygon",
+      "price": "$1.10"
+    },
+    {
+      "id": 18,
+      "name": "Stellar",
+      "price": "$.08"
+    },
+    {
+      "id": 19,
+      "name": "VeChain",
+      "price": "$.16"
+    },
+    {
+      "id": 20,
+      "name": "Filecoin",
+      "price": "$10.15"
+    },
+    {
+      "id": 21,
+      "name": "Tron",
+      "price": "$3.45"
+    },
+    {
+      "id": 22,
+      "name": "Theta",
+      "price": "$67.33"
+    },
+    {
+      "id": 23,
+      "name": "Crypto.com Coin",
+      "price": "$.25"
+    },
+    {
+      "id": 24,
+      "name": "Monero",
+      "price": "$.89"
+    },
+    {
+      "id": 25,
+      "name": "Tezos",
+      "price": "$.01"
+    }
+  ],
   "favorites": [],
   "resources": [
     {
